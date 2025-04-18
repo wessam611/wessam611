@@ -31,7 +31,7 @@ I'm a **Machine Learning Engineer** with a strong foundation in Computer Vision 
 
 *   **AI NLP Intern @ [CONXAI](https://www.conxai.com/)** (Dec 2024 - Present): Document analysis using LLMs & RAG.
 *   **AI Computer Vision Intern @ [CONXAI](https://www.conxai.com/)** (Mar 2024 - Nov 2024): Object/material identification (YOLO, SegmentAnything), ML lifecycle management.
-*   **Master Thesis Student @ [Fraunhofer IPA](https://www.ipa.fraunhofer.de/)** (Jul 2023 - Jan 2024): Human detection/tracking (LiDAR), feature fusion, unsupervised domain adaptation (achieved +11 points improvement).
+*   **Master Thesis Student @ [Fraunhofer IPA](https://www.ipa.fraunhofer.de/)** (Jul 2023 - Jan 2024): Human detection/tracking (LiDAR), feature fusion, unsupervised domain adaptation (achieved +7 points improvement).
 *   **R&D Working Student @ [Blickfeld](https://www.blickfeld.com/de/)** (Oct 2022 - Mar 2023): Point cloud noise filtering evaluation, ROS2 test framework development.
 *   **IDP Student - Computer Vision @ [Angsa Robotics](https://angsa-robotics.com/en-de/)** (Apr 2022 - Oct 2022): Real-time obstacle detection algorithm development from depth images.
 *   **Software Developer @ [Nebumind GmbH](https://www.nebumind.com/?lang=en)** (May 2021 - Sep 2022): Contributed to a custom spatiotemporal database.
