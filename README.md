@@ -19,10 +19,10 @@ I'm a **Machine Learning Engineer** with a strong foundation in Computer Vision 
 
 ## 🛠️ Skills & Technologies
 
-*   **Machine Learning / Deep Learning:** Computer Vision, Deep Learning, Machine Learning, RAG, Object Detection/Tracking, Pose Estimation, 3D Reconstruction, Domain Adaptation
-*   **Frameworks / Libraries:** PyTorch
-*   **Programming:** Python, C++, Java, JavaScript
-*   **Tools & Platforms:** Linux, ROS2, Git, Docker, SQL, Arduino, Django, Node.js
+*   **Machine Learning / Deep Learning:** Computer Vision, Deep Learning, Machine Learning, RAG, Object Detection/Tracking, Pose Estimation, 3D Reconstruction
+*   **Frameworks / Libraries:** PyTorch, LangChain, OpenCV, BlenderProc
+*   **Programming:** Python, C++
+*   **Tools & Platforms:** AWS, ROS2, Docker, Django, FastAPI
 *   **Languages:** English (C1), German (B1), Arabic (Native)
 
 ---
