@@ -40,7 +40,7 @@ I'm a **Machine Learning Engineer** with a strong foundation in Computer Vision 
 
 ## 🔬 Key Projects & Research
 
-*   **Guided Research (TUM):** 6D Pose Estimation - Network and loss design experimentation.
+*   **Guided Research (TUM):** Category-Level 6d Pose Estimation Using Monocular Depth Estimation - Network and loss design experimentation.
 *   **[Advanced Topics in 3D Computer Vision (TUM Lab)](https://www.cs.cit.tum.de/camp/teaching/previous-courses/advanced-topics-in-3d-computer-vision-ss-2024/):** RGB-based 6D Pose Estimation using inferred depth (GPVPose, DPTMonoDepth) and synthetic data (BlenderProc).
 *   **[Advanced Deep Learning for Computer Vision (TUM Course)](https://niessner.github.io/ADL4CV/):** Weakly-supervised 3D mesh reconstruction from sparse point clouds.
 *   **[Bachelor Thesis (AT TUM CAMPAR)](https://campar.in.tum.de/Students/MaPhotorealisticData.html):** Synthesizing photorealistic training data (Arnold, Nvidia Physx) for 6D pose estimation, exploring domain adaptation.
